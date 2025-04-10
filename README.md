@@ -6,11 +6,15 @@ I'm Javier Rodrigo, currently Spain based, working as Cloud and DevOps engineer.
 - [Google Cloud Certified Associate Cloud Engineer](https://google.accredible.com/63483c7c-f370-4199-bd09-1354e2a38a45)
 - [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/83c53d7a-e811-49c0-86ff-f1914405bfe9)
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JavierRodrigoAlonso-6494/8F08F64927B653B6)
-
+- [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JavierRodrigoAlonso-6494/e5145c6406f28994)
+- [Scrum Master + Product Owner by Scrum Manager](https://scrummanager.com/website/c/profile/member.php?id=51703)
+    
 ## Currently learning & preparing 
 - Professional Cloud DevOps Engineer (GCP)
 - Certified Kubernetes Administrator (CKA)
-
+- AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect Associate
+  
 ## :busts_in_silhouette: How to reach me:
 <a href=""><img alt="Link to my GitHub" src="https://img.shields.io/github/followers/jarodra?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@jarodra" height="22px"></a>
 <a href="https://www.linkedin.com/in/jarodra/"><img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/jarodra&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" /></a>
