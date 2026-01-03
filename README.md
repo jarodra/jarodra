@@ -2,18 +2,16 @@
 I'm Javier Rodrigo, currently Spain based, working as Cloud and DevOps engineer. 
 
 ## Certifications
-- [Google Cloud Certified Professional Cloud Architect](https://google.accredible.com/0875651f-e532-492a-9d43-e17759dc36a2)
-- [Google Cloud Certified Associate Cloud Engineer](https://google.accredible.com/63483c7c-f370-4199-bd09-1354e2a38a45)
-- [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/83c53d7a-e811-49c0-86ff-f1914405bfe9)
+- [Google Cloud Certified Professional Cloud DevOps Engineer](https://www.credly.com/earner/earned/badge/c7e950aa-a8ac-42cc-a458-df2aeea65064)
+- [Google Cloud Certified Professional Cloud Architect](https://www.credly.com/earner/earned/badge/40e9d8d6-36ca-4e0a-9162-5370e84c1c89)
+- [Google Cloud Certified Associate Cloud Engineer](https://www.credly.com/earner/earned/badge/51e4a152-5945-4d7d-8d68-22624d24cb40)
+- [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/earner/earned/badge/97234cc4-991c-48ab-a615-5e6ebe839b98)
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JavierRodrigoAlonso-6494/8F08F64927B653B6)
 - [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JavierRodrigoAlonso-6494/e5145c6406f28994)
 - [Scrum Master + Product Owner by Scrum Manager](https://scrummanager.com/website/c/profile/member.php?id=51703)
     
 ## Currently learning & preparing 
-- Professional Cloud DevOps Engineer (GCP)
 - Certified Kubernetes Administrator (CKA)
-- AWS Certified Cloud Practitioner
-- AWS Certified Solutions Architect Associate
   
 ## :busts_in_silhouette: How to reach me:
 <a href=""><img alt="Link to my GitHub" src="https://img.shields.io/github/followers/jarodra?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@jarodra" height="22px"></a>
